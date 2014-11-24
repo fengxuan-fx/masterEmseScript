@@ -1,4 +1,0 @@
-masterEmseScript
-================
-
-master emse script
