@@ -1,1 +1,1 @@
-logDebug("HelloWorld");
+zzz();
