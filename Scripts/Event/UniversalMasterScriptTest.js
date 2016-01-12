@@ -18,7 +18,7 @@
 |	The following script code will attempt to read the assocaite event and invoker the proper standard choices
 |    
 /------------------------------------------------------------------------------------------------------*/
-???var triggerEvent = aa.env.getValue("EventName");
+var triggerEvent = aa.env.getValue("EventName");
 var controlString = null;
 var documentOnly = false;						// Document Only -- displays hierarchy of std choice steps
 
