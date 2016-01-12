@@ -166,7 +166,7 @@ if(eventType == "After"){
 else{ //Process Before Event with cancel check
 	if (debug.indexOf("**ERROR") > 0)
 		{
-		aa.env.setValue("ScriptReturnCode", "1");
+		aa.env.setValue("ScriptReturnCode", "2");
 		aa.env.setValue("ScriptReturnMessage", debug);
 		}
 	else
